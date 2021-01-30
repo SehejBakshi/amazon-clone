@@ -8,12 +8,15 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
+    "faker": "^5.2.0",
     "firebase": "^8.2.4",
     "react": "^17.0.1",
     "react-currency-format": "^1.0.0",
     "react-dom": "^17.0.1",
+    "react-flip-move": "^3.0.4",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-toastify": "^7.0.2",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
